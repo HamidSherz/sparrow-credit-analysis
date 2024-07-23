@@ -96,10 +96,15 @@ Based on the analysis, the following conclusions were drawn:
    - **Potential Outcome**: Improved marketing efficiency and customer engagement.
 
 ### Screenshots and Visualizations
-![](Visualization_1.png)
-![](Visualization_2.png)
+![](tableau_visuals/by_age.JPG)
 
-For interactive visualizations and analysis results, check out the [Jupyter Notebook](link_to_notebook) or download the file [here](link_to_file).
+
+![](tableau_visuals/by_education_level.JPG)
+
+
+![](tableau_visuals/by_card_category.JPG)
+
+For interactive dashboards, check out the [Tableau Dashboard](https://public.tableau.com/views/AnalysisofRevolvingBalanceBehaviourWorksheets/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) on Tableau Public or alternatively you can download the file [here](tableau_visuals/Revolving_balance_analysis.twbx) directly from my repository.
 
 ## Data Access and Processed Datasets
 - [Original Data Set](link_to_data_source)
