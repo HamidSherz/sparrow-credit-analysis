@@ -107,10 +107,10 @@ Based on the analysis, the following conclusions were drawn:
 For interactive dashboards, check out the [Tableau Dashboard](https://public.tableau.com/views/AnalysisofRevolvingBalanceBehaviourWorksheets/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) on Tableau Public or alternatively you can download the file [here](tableau_visuals/Revolving_balance_analysis.twbx) directly from my repository.
 
 ## Data Access and Processed Datasets
-- [Original Data Set](link_to_data_source)
-- [`processed_data.csv`](link_to_processed_data): Contains cleaned and aggregated data used in the analysis.
+- [Original Data Set](https://docs.google.com/spreadsheets/d/1OGG6SVo01a26yQT9UnpmPxNfnrkvdBgLQ1Joc-0rNPg/edit?usp=sharing): Access the full original dataset used for initial analysis.
+- [`Final_data.csv`](Final_data.csv): Contains the final cleaned and selected data used for the analysis.
 
-Feel free to explore the provided notebooks and datasets for more details.
+Feel free to explore the visualizations and analysis results in the provided Tableau dashboard and data files.
 
 ---
 
