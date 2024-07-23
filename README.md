@@ -17,23 +17,28 @@ This project applied techniques in:
 - Comparative Analysis 🔍
 - Trend Analysis 📈
 - Data Visualization 📉
+- Segmentation Analysis 🔍
+- Financial Analysis 💰
+- Business Intelligence (BI) Techniques 📊
 
 ## Data Sourcing
-The data for this analysis was obtained from credit card transactions and demographic information, including:
+This analysis utilized credit card transactions and demographic data, which encompasses:
 - Credit card balance data
 - Demographic details of cardholders
 - Credit card category details
 
 ## Data Transformation
-The data was cleaned and transformed to ensure accuracy and consistency:
-- **Handled Missing Values**: Addressed gaps in the data
-- **Standardized Formats**: Ensured consistency
-- **Aggregated Data**: Summarized by demographics and card categories
+The data was prepared for analysis by performing the following tasks:
+- **Checking for Unique Records**: Ensured each record was unique to maintain data integrity.
+- **Checking for Missing Values in Key Categories**: Identified and handled missing values in critical fields.
+- **Selecting Relevant Data to Explore**: Filtered and selected pertinent data for focused analysis.
+- **Creating Credit Limit Groups**: Developed calculated fields in Tableau to categorize customers based on their credit limits.
 
 ## Modelling
 Key analyses included:
-- **Comparative Analysis**: Compared balances across different demographics and credit card types
-- **Trend Analysis**: Analyzed trends in revolving balances over time
+- **Comparative Analysis**: Compared balances across different demographics and credit card types to identify significant patterns and differences.
+- **Trend Analysis**: Analyzed trends in revolving balances over time to understand temporal changes and behavior.
+- **Credit Limit Groups**: Created calculated fields in Tableau to categorize customers into credit limit groups for more detailed analysis of revolving balances.
 
 ## Analysis & Visualization
 Key insights from the analysis:
