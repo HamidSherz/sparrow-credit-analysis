@@ -1,6 +1,6 @@
 # Sparrow Credit Card Revolving Balances Analysis
 
-![](Intro_Image.png)
+![](intro_image.png)
 
 ## Introduction
 Welcome to the Sparrow Credit Card Revolving Balances Analysis project! This project explores credit card revolving balance behavior across different demographics and credit card categories to uncover trends and insights.
