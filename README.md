@@ -68,18 +68,32 @@ Key insights from the analysis:
 
 | Metric                                | Value                                  |
 |---------------------------------------|----------------------------------------|
-| **Highest Average Balance by Demographic** | Age 30-40, High Income                 |
+| **Highest Average Balance by Demographic** | Customers in their late 30s to late 50s, particularly those in higher income brackets |
 | **Top Credit Card Category**          | Gold Card                              |
 
 ## Conclusion and Recommendations
-Based on the analysis, the following recommendations were made:
-- **Refine Customer Segmentation and Financial Education**: Enhance segmentation and financial education programs for college-educated customers and specific age groups with high balances. **Outcome**: Minimized revolving balance losses and optimized balances.
-- **Reduce Marketing Costs through Targeted Campaigns**: Implement targeted marketing to identified customer clusters to save $50,000 annually. **Outcome**: Identified $50,000 annual savings in marketing costs.
-- **Reduce Customer Churn**: Implement strategies to reduce churn by 20%, particularly targeting clusters with high revolving balances like Blue and Gold cardholders. **Outcome**: Discovered potential $100,000 savings by reducing churn.
-- **Enhance Customer Retention through Trends Analysis**: Use trends analysis to increase retention by 15% and reduce costs. **Outcome**: Increased customer retention by 15% and optimized strategies with an expected $200 decrease in costs.
-- **Identify Key Drivers and Correlations**: Investigate correlations between credit limits and revolving balances to understand key drivers and enhance financial education efforts. **Outcome**: Better understanding of customer behaviors and more targeted financial education efforts.
-- **Analyze Discrepancies and Anomalies**: Investigate discrepancies such as higher balances left by 63-64 year-olds and differences across card categories to tailor financial advice. **Outcome**: More precise customer segmentation and personalized financial education programs.
-- **Utilize Clusters for Targeted Marketing**: Segment customers based on behavior and demographics for more effective marketing campaigns. **Outcome**: Enhanced marketing efficiency and improved customer engagement.
+Based on the analysis, the following conclusions were drawn:
+- Higher average revolving balances are observed among certain age groups and education levels.
+- Credit limit and income levels have significant impacts on revolving balances.
+- There are notable differences in revolving balances across credit card categories.
+
+**Actionable Recommendations**  
+1. **Refine Customer Segmentation and Financial Education**: Enhance financial education programs and refine customer segmentation to address patterns such as higher average revolving balances among specific education levels and age groups.  
+   - **Outcome**: Minimized revolving balance losses and optimized balances.
+2. **Reduce Marketing Costs through Targeted Campaigns**: Implement targeted marketing campaigns focusing on identified customer clusters such as Blue cardholders in lower income brackets.  
+   - **Outcome**: Identified potential annual savings of $50,000 in marketing costs.
+3. **Reduce Customer Churn**: Develop strategies to reduce churn by 20%, especially targeting clusters with high revolving balances like Blue and Gold cardholders.  
+   - **Outcome**: Potential savings of $100,000 by reducing churn.
+4. **Enhance Customer Retention through Trends Analysis**: Use trends analysis to improve retention, focusing on age groups with high revolving balances.  
+   - **Outcome**: Increased retention by 15% with an expected $200 decrease in costs.
+
+**Areas for Further Investigation**  
+1. **Investigate Correlations Between Credit Limits and Revolving Balances**: Explore why higher credit limit groups have lower average revolving balances and identify key drivers behind these patterns.  
+   - **Potential Outcome**: Better understanding of customer behavior and more targeted financial education.
+2. **Analyze Discrepancies and Anomalies**: Look into anomalies such as higher balances left by 63 and 64-year-olds, and differences across card categories.  
+   - **Potential Outcome**: More precise customer segmentation and personalized financial advice.
+3. **Utilize Clusters for Targeted Marketing**: Further segment customers based on purchasing behavior and demographics to enhance marketing effectiveness.  
+   - **Potential Outcome**: Improved marketing efficiency and customer engagement.
 
 ### Screenshots and Visualizations
 ![](Visualization_1.png)
