@@ -28,11 +28,11 @@ This analysis utilized credit card transactions and demographic data, which enco
 - Credit card category details
 
 ## Data Transformation
-The data was prepared for analysis by performing the following tasks:
-- **Checking for Unique Records**: Ensured each record was unique to maintain data integrity.
-- **Checking for Missing Values in Key Categories**: Identified and handled missing values in critical fields.
-- **Selecting Relevant Data to Explore**: Filtered and selected pertinent data for focused analysis.
-- **Creating Credit Limit Groups**: Developed calculated fields in Tableau to categorize customers based on their credit limits.
+The data was processed to ensure accuracy and consistency through the following steps:
+- **Data Validation**: Checked for duplicates and missing values in key categories. No issues were found, confirming the dataset's quality.
+- **Data Selection**: Selected relevant columns from the original dataset to focus on key variables necessary for analysis.
+- **Data Transformation**: Standardized data formats and aggregated data by demographic and credit card categories to support detailed analysis.
+- **Calculated Fields**: Created calculated fields in Tableau to categorize customers by credit limit and age groups, enhancing the analysis.
 
 ## Modelling
 Key analyses included:
