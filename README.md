@@ -31,7 +31,7 @@ This analysis utilized credit card transactions and demographic data, which enco
 The data was processed to ensure accuracy and consistency through the following steps:
 - **Data Validation**: Checked for duplicates and missing values in key categories. No issues were found, confirming the dataset's quality.
 - **Data Selection**: Selected relevant columns from the original dataset to focus on key variables necessary for analysis.
-- **Data Transformation**: Standardized data formats and aggregated data by demographic and credit card categories to support detailed analysis.
+- **Data Transformation**: Aggregated data by demographic and credit card categories to support detailed analysis.
 - **Calculated Fields**: Created calculated fields in Tableau to categorize customers by credit limit and age groups, enhancing the analysis.
 
 ## Modelling
